@@ -1,5 +1,5 @@
 # Migration and Economic Recovery During COVID-19
-This repo contains the final project for the Fundamentals of Data Science course offered at the Harvard Extension School. The project was created using Jupyter Notebooks, which has been outputted to a .html file and contains the written analysis, output, and code for the project. The data used for the project is contained in the data folder.
+This repo contains the final project for the Fundamentals of Data Science course offered at the Harvard Extension School. The project was created using Jupyter Notebooks, which has been outputted to a .html file and contains the written analysis, output, and code for the project. The data used for the project is described and linked below.
 
 ## Project Summary
 My project analyzes migration patterns and economic recovery following the COVID-19 pandemic to understand the potential relationship between the two and attempt to predict future migration trends.
